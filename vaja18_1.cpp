@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//comment
 
 string sodoALiLiho(int A){
     if (A % 2 == 0){
