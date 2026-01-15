@@ -13,9 +13,7 @@ void izpisiVseStevke(int a) {
     while(a > 0){
         std::cout << a % 10 << " ";
         a = (a / 10);
-
     }
-
 }
 
 
