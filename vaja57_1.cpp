@@ -17,7 +17,7 @@ int main() {
     std::cin >> a;
 
     while (a > 0) {
-        vsotaVsehStevk += (a %10);
+        vsotaVsehStevk += (a % 10);
         a /= 10;
     }
     
