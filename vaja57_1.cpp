@@ -20,10 +20,8 @@ int main() {
         vsotaVsehStevk += (a % 10);
         a /= 10;
     }
-    
 
     std::cout << vsotaVsehStevk;
   
-
     return 0;
 };
